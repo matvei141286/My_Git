@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My_Git</string>
+    <string name="textMainScreen">Мой первый проект</string>
 </resources>
